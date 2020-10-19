@@ -1,0 +1,21 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1603125107862,421,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-1,text,true,,200637,136,1,1,https://pokeapi.co/api/v2/pokemon/bulbasaur,181,0,120
+1603125108286,203,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-1,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,202,0,0
+1603125108362,549,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-2,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,242,0,177
+1603125108914,530,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-2,text,true,,200637,136,3,3,https://pokeapi.co/api/v2/pokemon/bulbasaur,277,0,0
+1603125108864,649,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-3,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,464,0,375
+1603125109515,326,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-3,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,86,0,0
+1603125109363,609,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-4,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,228,0,131
+1603125109978,309,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-4,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,58,0,0
+1603125109862,596,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-5,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,239,0,146
+1603125110461,210,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-5,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,68,0,0
+1603125110364,495,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-6,text,true,,200637,136,1,1,https://pokeapi.co/api/v2/pokemon/bulbasaur,221,0,137
+1603125110861,200,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-6,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,65,0,0
+1603125110863,524,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-7,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,222,0,156
+1603125111390,379,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-7,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,67,0,0
+1603125111362,591,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-8,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,350,0,227
+1603125111955,332,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-8,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,61,0,0
+1603125111862,650,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-9,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,383,0,136
+1603125112515,252,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-9,text,true,,200637,136,2,2,https://pokeapi.co/api/v2/pokemon/bulbasaur,79,0,0
+1603125112362,539,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-10,text,true,,200637,136,1,1,https://pokeapi.co/api/v2/pokemon/bulbasaur,193,0,133
+1603125112904,301,HTTP Request - GET Bulbasaur,200,OK,Thread Group - Bulbasaur 1-10,text,true,,200637,136,1,1,https://pokeapi.co/api/v2/pokemon/bulbasaur,59,0,0
